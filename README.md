@@ -1,3 +1,3 @@
 # test
-idk what iam doing\n
+idk what iam doing\
 a changes
