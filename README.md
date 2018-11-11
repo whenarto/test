@@ -1,3 +1,3 @@
 # test
 idk what iam doing\
-a changes
+a change<strike>s<\strike>
